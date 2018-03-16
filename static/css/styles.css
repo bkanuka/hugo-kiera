@@ -16,6 +16,12 @@ time {
   font-family: "Ruda", sans-serif;
 }
 
+code.has-jax {
+  font: inherit;
+  border: inherit;
+  background-color: inherit !important;
+}
+
 #container {
   margin: 0;
   padding: 0;
